@@ -1,0 +1,25 @@
+.modal-close {
+    position: absolute;
+    right: 15px;
+    top: 10px;
+    font-size: 30px !important;
+    font-weight: bold !important;
+    opacity: 1 !important;
+    cursor: pointer;
+}
+.fav-title {
+    background-color: #eae4e4;
+    padding: 10px;
+}
+.align-right {
+    text-align: right;
+}
+.align-left {
+    text-align: left;
+}
+.add-button {
+    width: 100%;
+    color: #fff !important;
+    background-color: #a6bf38 !important;
+    border: none !important;
+}
